@@ -945,6 +945,10 @@ Undersøg:
 
 Dokumentér mindst tre problemer.
 
+1. Ikoner (billeder) forbliver samme størrelse
+2. Tekst overlapper billeder på mindre skærme
+3. Kolonner bliver for smalle på store skærme
+
 ---
 
 ## Find det gamle layoutsystem
