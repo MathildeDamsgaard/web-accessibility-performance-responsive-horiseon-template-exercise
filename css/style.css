@@ -79,6 +79,9 @@ main.content {
   flex-wrap: wrap;
   align-items: stretch;
   gap: 1.2rem;
+}
+
+main.content > h1 {
   flex-basis: 100%;
 }
 
@@ -88,7 +91,7 @@ main.content {
 }
 
 .marketing {
-  width: 75%;
+  flex: 1;
   display: flex;
   flex-direction: column;
   gap: 1.2rem;
@@ -96,6 +99,13 @@ main.content {
 
 .services {
   flex: 1;
+}
+
+aside.benefits {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.4rem;
 }
 
 .benefits {
