@@ -89,6 +89,13 @@ main.content {
 
 .marketing {
   width: 75%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.services {
+  flex: 1;
 }
 
 .benefits {
