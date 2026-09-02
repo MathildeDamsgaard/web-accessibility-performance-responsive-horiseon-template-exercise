@@ -767,9 +767,13 @@ Notér gerne resultaterne i en lille tabel.
 
 | Billede                            | Format | Dimensioner | Filstørrelse | Relevant at optimere? |
 | ---------------------------------- | ------ | ----------: | -----------: | --------------------- |
-| `search-engine-optimization.jpg`   |        |             |              |                       |
-| `online-reputation-management.jpg` |        |             |              |                       |
-| `social-media-marketing.jpg`       |        |             |              |                       |
+| `search-engine-optimization.jpg`   | JPEG   | 7360 × 4912 |      14,9 MB | Ja                    |
+| `online-reputation-management.jpg` | JPEG   | 4404 × 2877 |       6,7 MB | Ja                    |
+| `social-media-marketing.jpg`       | JPEG   | 5000 × 3451 |      14,2 MB | Ja                    |
+| `lead-generation.jpg`              | PNG    | 1000 × 1000 |        40 KB | Nej                   |
+| `cost-management.jpg`              | PNG    | 1000 × 1000 |        41 KB | Nej                   |
+| `brand-awareness.jpg`              | PNG    | 1000 × 1000 |        63 KB | Nej                   |
+| `digital-marketing-meeting.jpg`    | JPEG   | 8688 × 5792 |      14,2 MB | Ja                    |
 
 ---
 
