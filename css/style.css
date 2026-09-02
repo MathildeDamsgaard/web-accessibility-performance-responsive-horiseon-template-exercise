@@ -199,3 +199,39 @@ aside.benefits {
 .footer h2 {
   font-size: 20px;
 }
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+  }
+
+  .header nav {
+    margin-right: 0;
+    text-align: center;
+  }
+
+  .header nav ul li {
+    display: block;
+    margin: 10px 0;
+  }
+
+  main.content {
+    flex-direction: column;
+  }
+
+  .benefits {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .services {
+    height: auto;
+  }
+
+  .float-left,
+  .float-right {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+  }
+}
