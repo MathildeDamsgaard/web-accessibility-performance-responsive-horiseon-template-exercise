@@ -870,8 +870,8 @@ Kør Lighthouse med samme indstillinger som ved baseline.
 Notér:
 
 ```text
-Performance før: ______
-Performance efter: __75__
+Performance før: ___75___
+Performance efter: __99__
 ```
 
 ### Mål
